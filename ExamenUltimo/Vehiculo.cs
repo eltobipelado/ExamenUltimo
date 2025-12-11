@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExamenUltimo
 {
-    public class Vehiculo
+    public abstract class Vehiculo
     {
         public int ID { get; set; }
         public string Dueño { get; set; }

@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\Estacionamiento.cs" Link="Estacionamiento.cs" />
-  </ItemGroup>
-
 </Project>

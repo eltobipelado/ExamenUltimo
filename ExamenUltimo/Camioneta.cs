@@ -9,7 +9,7 @@ namespace ExamenUltimo
     public class Camioneta: Vehiculo
     {
         public int CapacidadCarga { get; set; }
-        public string Es4x4 { get; set; }
+        public bool Es4x4 { get; set; }
         public override int CostoDiario()
         {
             return 1500;
